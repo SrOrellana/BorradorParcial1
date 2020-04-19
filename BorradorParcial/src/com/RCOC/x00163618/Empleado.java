@@ -26,7 +26,12 @@ public abstract class Empleado {
     public ArrayList<Documento> getDocumento() {
         return documentos;
     }
-    public void addDocumento(Documento) {
+    public void addDocumento(Documento docs) {
+        documentos.add(docs);
+    }
+    public void removeDocumento(String nomb)throws NotExistingDocumentExepction{
+       if(!documentos.removeIf(obj->{return (obj.getNombre()).equalsIgnoreCase(nomb);}))
+           throw new NotExistingDocumentExepction("No existe documento");
     }
 
     public double getSalario() {

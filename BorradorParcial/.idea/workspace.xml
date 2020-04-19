@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5127f6c5-888e-41d6-95b3-e9151787aae8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/NotExistingEmployedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/NotExistingEmployedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empleado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587161483041</updated>
-      <workItem from="1587161488348" duration="12909000" />
+      <workItem from="1587161488348" duration="14231000" />
     </task>
     <servers />
   </component>
