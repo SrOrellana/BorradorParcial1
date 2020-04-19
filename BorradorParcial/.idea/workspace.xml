@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5127f6c5-888e-41d6-95b3-e9151787aae8" name="Default Changelist" comment="" />
+    <list default="true" id="5127f6c5-888e-41d6-95b3-e9151787aae8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/NotExistingEmployedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/NotExistingEmployedException.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +19,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1age5kEZ8FJa8ctGQOH9hkHRIxR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -52,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587161483041</updated>
-      <workItem from="1587161488348" duration="9809000" />
+      <workItem from="1587161488348" duration="12909000" />
     </task>
     <servers />
   </component>
@@ -60,10 +70,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="173" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1587166004197">
+    <state x="173" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1587251300656">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="173" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1587166004197" />
+    <state x="173" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1587251300656" />
     <state x="390" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1587161500573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
