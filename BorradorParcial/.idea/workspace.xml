@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5127f6c5-888e-41d6-95b3-e9151787aae8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/RCOC/x00163618/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/RCOC/x00163618/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587161483041</updated>
-      <workItem from="1587161488348" duration="14231000" />
+      <workItem from="1587161488348" duration="20219000" />
     </task>
     <servers />
   </component>
@@ -72,9 +72,17 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="173" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1587251300656" />
+    <state x="462" y="112" key="FileChooserDialogImpl" timestamp="1587338304182">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="112" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587338304182" />
     <state x="390" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1587161500573">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="390" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1587161500573" />
+    <state x="65" y="0" key="new project wizard" timestamp="1587338306159">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1587338306159" />
   </component>
 </project>
